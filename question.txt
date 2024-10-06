@@ -1,0 +1,114 @@
+Here’s a list of 100 JavaScript array problems you can work on, organized by difficulty. Each problem will help you enhance your understanding of array manipulation and algorithms.
+
+### Easy Level
+1. Find the maximum element in an array.
+2. Find the minimum element in an array.
+3. Calculate the sum of all elements in an array.
+4. Find the average of all elements in an array.
+5. Count the number of elements in an array.
+6. Reverse an array.
+7. Remove duplicates from an array.
+8. Check if an array contains a specific element.
+9. Find the index of a specific element in an array.
+10. Sort an array in ascending order.
+11. Sort an array in descending order.
+12. Merge two arrays into one.
+13. Check if an array is sorted.
+14. Create a new array with the squares of each number in the original array.
+15. Create a new array with all elements greater than a specific number.
+16. Filter out even numbers from an array.
+17. Find the second largest number in an array.
+18. Rotate an array to the left or right by a specified number of positions.
+19. Flatten a multidimensional array.
+20. Check if two arrays are equal.
+
+### Medium Level
+21. Implement a function to perform binary search on a sorted array.
+22. Remove all occurrences of a specific element from an array.
+23. Find the intersection of two arrays.
+24. Find the union of two arrays.
+25. Create a new array containing only the elements that appear in both arrays.
+26. Find the first non-repeating element in an array.
+27. Create a function to return the longest string from an array of strings.
+28. Find the most frequent element in an array.
+29. Implement a function to calculate the product of all elements in an array.
+30. Implement a function to rotate an array by k elements without using built-in functions.
+31. Find all pairs in an array that sum up to a specific number.
+32. Check if an array contains any duplicates.
+33. Implement a function to combine overlapping intervals in an array of intervals.
+34. Create a new array by mapping each element to its index.
+35. Implement a function to get the unique elements from an array without using a set.
+36. Find the longest substring with at most two distinct characters.
+37. Group an array of objects by a specific property.
+38. Create a new array by removing the elements at even indices.
+39. Implement a function to find the common elements between three arrays.
+40. Calculate the maximum product of any two numbers in an array.
+
+### Hard Level
+41. Implement a function that returns all subsets of a given array.
+42. Find the longest increasing subsequence in an array.
+43. Implement a function to find the majority element in an array.
+44. Find all combinations of a given length from an array.
+45. Implement a function to find the median of two sorted arrays.
+46. Rotate a matrix (2D array) 90 degrees clockwise.
+47. Implement a function that takes an array and returns a new array with elements in reverse order without using built-in reverse functions.
+48. Find the maximum sum of a contiguous subarray (Kadane's algorithm).
+49. Implement a function to merge k sorted arrays.
+50. Check if an array can be partitioned into two subsets with equal sum.
+51. Find the minimum number of operations required to make two arrays equal.
+52. Implement a function to find the peak element in an array.
+53. Count the number of inversions in an array.
+54. Implement a function to generate all possible permutations of an array.
+55. Find all unique triplets in an array that sum to zero.
+56. Implement a function to find the first repeating element in an array.
+57. Find the longest substring without repeating characters.
+58. Find the Kth largest element in an array.
+59. Implement a function to partition an array into two subsets such that the difference between their sums is minimized.
+60. Find the longest sequence of consecutive numbers in an unsorted array.
+
+### Challenge Level
+61. Implement a function to find all pairs of integers in an array that sum up to a specific value, with O(n) time complexity.
+62. Find the maximum sum of non-adjacent elements in an array.
+63. Implement a function to find the minimum length subarray that needs to be sorted for the entire array to be sorted.
+64. Count the number of subarrays that have a sum equal to a target value.
+65. Implement a function to find the longest alternating subsequence.
+66. Find the number of subarrays with at least one zero.
+67. Implement a function to find the longest contiguous subarray with a sum equal to zero.
+68. Find the Kth smallest element in an unsorted array.
+69. Implement a function to find the longest palindromic subsequence.
+70. Find the smallest positive integer that cannot be represented as a sum of any subset of a given array.
+
+### Extra Practice
+71. Create a function that returns the first half of an array.
+72. Create a function that checks if an array is a palindrome.
+73. Create a function that flattens an array to a specified depth.
+74. Create a function that replaces elements in an array with their square root.
+75. Create a function that sorts an array of objects by a specific key.
+76. Find the largest product of any three numbers in an array.
+77. Implement a function to find the difference between the largest and smallest numbers in an array.
+78. Create a function to find the smallest number in a rotating array.
+79. Implement a function that finds the most common word in a string.
+80. Create a function that finds the longest common prefix among an array of strings.
+81. Create a function to rotate an array using the reverse method.
+82. Create a function that returns the frequency of each element in an array.
+83. Find the longest sequence of 1s in a binary array.
+84. Create a function to find the element that appears once in an array where every other element appears twice.
+85. Create a function to determine if an array contains any element that appears more than n/2 times.
+86. Implement a function that moves all zeros in an array to the end while maintaining the order of non-zero elements.
+87. Create a function to generate an array of Fibonacci numbers up to a given limit.
+88. Create a function that checks if one array is a rotation of another.
+89. Create a function that finds the longest sequence of consecutive elements in an unsorted array.
+90. Create a function to calculate the sum of all even indexed elements in an array.
+
+### Final Challenges
+91. Create a function that returns the longest substring of an array that contains only unique elements.
+92. Implement a function that returns the number of unique elements in an array.
+93. Create a function that finds the two numbers in an array that sum to a target number.
+94. Create a function that checks if an array can be divided into two subsets of equal sum.
+95. Implement a function to find all unique combinations of a given length from an array.
+96. Create a function to find the intersection of two arrays without using built-in methods.
+97. Create a function that returns the maximum difference between any two elements in an array.
+98. Create a function that finds the number of subarrays with the maximum sum.
+99. Implement a function to find the longest substring with at most k distinct characters.
+100. Create a function that generates all possible combinations of an array.
+

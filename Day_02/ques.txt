@@ -1,0 +1,39 @@
+Problem 1: Simple Concatenation
+---------------------------------
+Write a function that takes an arbitrary number of arrays as arguments and returns a new array containing all elements from those arrays, without using any built-in methods.
+
+Problem 2: Concatenation with Conditions
+-----------------------------------------
+Modify the previous function to only include numbers greater than a specified threshold in the concatenated array. The function should take the threshold as an additional parameter.
+
+Problem 3: Nested Array Concatenation
+---------------------------------------
+Write a function that takes an array of arrays (nested arrays) and concatenates them into a single array. Ensure that any nested arrays are flattened into the result.
+
+Problem 4: String Concatenation
+---------------------------------
+Create a function that concatenates multiple arrays of strings. The resulting array should contain all unique strings (no duplicates) from the input arrays.
+
+Problem 5: Concatenation with a Prefix
+----------------------------------------
+Write a function that concatenates multiple arrays, but before adding each element, you should append a specific prefix (e.g., "Item: ") to each element in the resulting array.
+
+Problem 6: Count of Elements
+---------------------------------
+Write a function that takes an arbitrary number of arrays and returns an object with the total count of elements from all the arrays concatenated. The keys in the object should be the unique elements, and the values should be their counts.
+
+Problem 7: Filter and Concatenate
+-----------------------------------
+Create a function that concatenates multiple arrays, but only includes elements that are even numbers. Use a loop to filter the elements before adding them to the resulting array.
+
+Problem 8: Custom Separator
+--------------------------------
+Write a function that takes multiple arrays and a separator (string) as parameters, and returns a single string that concatenates all elements from the arrays, separated by the provided separator.
+
+Problem 9: Maximum Length Element
+-----------------------------------
+Create a function that concatenates multiple arrays and returns the element with the maximum length from the concatenated array. If there are multiple elements with the same maximum length, return the first one.
+
+Problem 10: Reverse Concatenation
+------------------------------------
+Write a function that takes multiple arrays and concatenates them in reverse order. The last array provided should be the first in the resulting concatenated array.

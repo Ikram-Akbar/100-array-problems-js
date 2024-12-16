@@ -1,6 +1,9 @@
 Here’s a list of 100 JavaScript array problems you can work on, organized by difficulty. Each problem will help you enhance your understanding of array manipulation and algorithms.
 
-### Easy Level
+---------------------
+### Easy Level ###
+----------------------
+
 1. Find the maximum element in an array.
 2. Find the minimum element in an array.
 3. Calculate the sum of all elements in an array.
@@ -22,7 +25,10 @@ Here’s a list of 100 JavaScript array problems you can work on, organized by d
 19. Flatten a multidimensional array.
 20. Check if two arrays are equal.
 
-### Medium Level
+---------------------
+### Medium_Level ###
+---------------------
+
 21. Implement a function to perform binary search on a sorted array.
 22. Remove all occurrences of a specific element from an array.
 23. Find the intersection of two arrays.
@@ -44,7 +50,10 @@ Here’s a list of 100 JavaScript array problems you can work on, organized by d
 39. Implement a function to find the common elements between three arrays.
 40. Calculate the maximum product of any two numbers in an array.
 
-### Hard Level
+---------------------
+### Hard Level ###
+---------------------
+
 41. Implement a function that returns all subsets of a given array.
 42. Find the longest increasing subsequence in an array.
 43. Implement a function to find the majority element in an array.
@@ -66,7 +75,10 @@ Here’s a list of 100 JavaScript array problems you can work on, organized by d
 59. Implement a function to partition an array into two subsets such that the difference between their sums is minimized.
 60. Find the longest sequence of consecutive numbers in an unsorted array.
 
-### Challenge Level
+-------------------------
+### Challenge Level ###
+-------------------------
+
 61. Implement a function to find all pairs of integers in an array that sum up to a specific value, with O(n) time complexity.
 62. Find the maximum sum of non-adjacent elements in an array.
 63. Implement a function to find the minimum length subarray that needs to be sorted for the entire array to be sorted.
@@ -78,7 +90,10 @@ Here’s a list of 100 JavaScript array problems you can work on, organized by d
 69. Implement a function to find the longest palindromic subsequence.
 70. Find the smallest positive integer that cannot be represented as a sum of any subset of a given array.
 
-### Extra Practice
+==================================
+    ### Extra Practice ###
+==================================
+
 71. Create a function that returns the first half of an array.
 72. Create a function that checks if an array is a palindrome.
 73. Create a function that flattens an array to a specified depth.
@@ -100,7 +115,12 @@ Here’s a list of 100 JavaScript array problems you can work on, organized by d
 89. Create a function that finds the longest sequence of consecutive elements in an unsorted array.
 90. Create a function to calculate the sum of all even indexed elements in an array.
 
-### Final Challenges
+--------------------------------
+--------------------------------
+    ### Final Challenges ###
+--------------------------------
+--------------------------------
+
 91. Create a function that returns the longest substring of an array that contains only unique elements.
 92. Implement a function that returns the number of unique elements in an array.
 93. Create a function that finds the two numbers in an array that sum to a target number.
@@ -112,3 +132,4 @@ Here’s a list of 100 JavaScript array problems you can work on, organized by d
 99. Implement a function to find the longest substring with at most k distinct characters.
 100. Create a function that generates all possible combinations of an array.
 
+============  ========================  ============  ====================================

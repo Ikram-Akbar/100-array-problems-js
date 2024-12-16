@@ -7,3 +7,14 @@
  * 
  * 
 */
+
+const concatArray = (...arg) => {
+   let myArray = [];
+   for(let i = 0; i<arg.length; i++){
+      for(let j=0; j<arg[i].length; j++){
+         myArray.push(arg[i][j]);
+      }
+   }
+   return myArray;
+};
+console.log(concatArray([1,2,3],[4,5,6]));
